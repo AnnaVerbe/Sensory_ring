@@ -2,8 +2,13 @@
 
 Files need to be updated: just an example 
 
-## Data: Anna_data.xlsx
+## Data:
+
+```shell 
+File: Anna_data.xlsx
 conditions (column 1): 
+```
+
 * $P_+ A_+ V_{t}$: 1
 * $P_+ A_- V_{b}$: 2
 * $P_+ A_+ V_{b}$: 3
