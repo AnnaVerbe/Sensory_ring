@@ -1,4 +1,4 @@
-# Sensory_ring
+# Sensor_ring
 
 ## code matlab
 ## simulink
