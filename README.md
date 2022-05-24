@@ -1,6 +1,10 @@
 # Sensor_ring
 
 Files need to be updated: just an example 
+```shell 
+Papier lié: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
+```
+
 
 ## Data:
 
@@ -35,6 +39,3 @@ Adapted from: Anna Verbe, Léandre P. Varennes, Jean-Louis Vercher, Stéphane Vi
 
 
 
-```shell 
-Papier lié: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
-```
