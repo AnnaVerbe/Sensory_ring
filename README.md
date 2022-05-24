@@ -1,16 +1,21 @@
 # Sensor_ring
 
-Files need to be updated: just an example 
+Files need to be updated by you Dominique: I just put the old one to start structuring the github 
 ```shell 
-Papier lié: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
+From: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
 ```
-
 
 ## Data:
+```shell 
+Roll angle throught time for all conditions and trials
+Files: ....
+```
 
 ```shell 
+Mean roll angle throught time for all the conditions
 File: Anna_data.xlsx
 ```
+
 conditions (column 1): 
 
 * $P_+ A_+ V_{t}$: 1
@@ -19,15 +24,17 @@ conditions (column 1):
 * $P_+ A_+ V_{dark}$: 4
 * $P_+ A_- V_{dark}$: 5
 
-Time (column 2), roll angle (column 3)
+Time (column 2), mean roll angle (column 3)
 
-## code matlab
+## Matlab: RA-based model
 
 ```shell 
 File: zobi_v6.m 
 ```
 
-## Associated simulink file:
+> Description .... + related model (Touretsky) sigma pi
+
+## Associated simulink:
 ```shell 
 File: model_mouche_integrateur_V2.slxc
 ```
