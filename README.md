@@ -2,7 +2,7 @@
 
 Files need to be updated by you Dominique: I just put the old one to start structuring the github 
 ```
-Liked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
+Linked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
 ```
 
 ## Data: 
