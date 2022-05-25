@@ -16,11 +16,11 @@ Mean roll angle through time for all the conditions: see Anna_data.xlsx
 
 conditions (column 1): 
 
-* $P_+ A_+ V_{t}$: 1
-* $P_+ A_- V_{b}$: 2
-* $P_+ A_+ V_{b}$: 3
-* $P_+ A_+ V_{dark}$: 4
-* $P_+ A_- V_{dark}$: 5
+* P+ A+ Vt: 1
+* P+ A- Vb: 2
+* P+ A+ Vb: 3
+* P+ A+ Vdark: 4
+* P+ A- Vdark: 5
 
 Time (column 2), mean roll angle (column 3)
 
