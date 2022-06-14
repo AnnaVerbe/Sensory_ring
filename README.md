@@ -7,11 +7,11 @@ Linked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sen
 
 ## Data: 
 ```
-Roll angle through time for all conditions and trials: see ....
+Roll angle through time for all conditions and trials: see Tab_alltrials.xls
 ```
 
 ``` 
-Mean roll angle (column 3) through time (column 2) for all the conditions (column 1): see Anna_data.xlsx
+Mean roll angle (column 3) through time (column 2) for all the conditions (column 1): see Tab_Mean.xls
 ```
 Conditions and corresponding numbers: 
 
@@ -20,6 +20,10 @@ Conditions and corresponding numbers:
 * P+ A+ Vb: 3
 * P+ A+ Vdark: 4
 * P+ A- Vdark: 5
+
+``` 
+Data from the model: see Tab_dataModel.xlsx
+```
 
 ## RA-based model
 
