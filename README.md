@@ -1,6 +1,6 @@
 # Sensor_ring
-You will find here the data files, matlab script and simulink file for 
-Files need to be updated by you Dominique: I just put the old one to start structuring the github 
+You will find here the data files, matlab script and simulink file link to the modelisation of the nonlinear sensory fusion in the hoverfly righting reflex.
+
 ```
 Linked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
 ```
@@ -11,18 +11,15 @@ Roll angle through time for all conditions and trials: see ....
 ```
 
 ``` 
-Mean roll angle through time for all the conditions: see Anna_data.xlsx
+Mean roll angle (column 3) through time (column 2) for all the conditions (column 1): see Anna_data.xlsx
 ```
-
-conditions (column 1): 
+Conditions and corresponding numbers: 
 
 * P+ A+ Vt: 1
 * P+ A- Vb: 2
 * P+ A+ Vb: 3
 * P+ A+ Vdark: 4
 * P+ A- Vdark: 5
-
-Time (column 2), mean roll angle (column 3)
 
 ## RA-based model
 
