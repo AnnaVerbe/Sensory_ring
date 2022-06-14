@@ -1,5 +1,5 @@
 # Sensor_ring
-
+You will find here the data files, matlab script and simulink file for 
 Files need to be updated by you Dominique: I just put the old one to start structuring the github 
 ```
 Linked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
