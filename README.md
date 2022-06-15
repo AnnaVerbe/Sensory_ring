@@ -5,7 +5,7 @@ You will find here the data files, matlab script and simulink file link to the m
 Linked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Nonlinear sensory fusion in the hoverfly righting reflex. 
 ```
 
-## Data: 
+## Experimental data: 
 ```
 Roll angle through time for all conditions and trials: see Tab_alltrials.xls
 ```
@@ -31,7 +31,7 @@ Data from the model: see Tab_dataModel.xlsx
 File: RA_model.m 
 ```
 
-> Description .... + related model (Touretsky) sigma pi
+> Ring attractor network with sigma-pi units, as described in the SI of (Verbe, Martinez & Viollet, 2022)
 
 ## Associated simulink:
 ``` 
