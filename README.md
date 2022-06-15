@@ -37,9 +37,8 @@ File: RA_model.m
 ``` 
 File: model_mouche_integrateur_V2.slxc
 ```
-> Description ....
+>  Dynamic model of the righting reflex. Adapted from: Anna Verbe, Léandre P. Varennes, Jean-Louis Vercher, Stéphane Viollet; How do hoverflies use their righting reflex?. *J Exp Biol* 1 July 2020; 223 (13): jeb215327. doi: https://doi.org/10.1242/jeb.215327
 
-Adapted from: Anna Verbe, Léandre P. Varennes, Jean-Louis Vercher, Stéphane Viollet; How do hoverflies use their righting reflex?. *J Exp Biol* 1 July 2020; 223 (13): jeb215327. doi: https://doi.org/10.1242/jeb.215327
 
 
 
