@@ -33,7 +33,7 @@ File: RA_model.m
 
 > Ring attractor network with sigma-pi units, as described in the SI of (Verbe, Martinez & Viollet, 2022)
 
-## Associated simulink:
+## Matlab/simulink-based model:
 ``` 
 File: model_mouche_integrateur_V2.slxc
 ```
