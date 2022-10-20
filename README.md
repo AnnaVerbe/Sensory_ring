@@ -15,11 +15,11 @@ Mean roll angle (column 3) through time (column 2) for all the conditions (colum
 ```
 Conditions and corresponding numbers: 
 
-* P+ A+ Vt: 1
-* P+ A- Vb: 2
-* P+ A+ Vb: 3
-* P+ A+ Vdark: 4
-* P+ A- Vdark: 5
+* P A+ Vt: 1
+* P A- Vb: 2
+* P A+ Vb: 3
+* P A+ Vdark: 4
+* P A- Vdark: 5
 
 ``` 
 Data from the model: see Tab_dataModel.xlsx
