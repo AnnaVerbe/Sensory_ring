@@ -31,7 +31,7 @@ Data from the model: see Tab_dataModel.xlsx
 File: RA_model.m 
 ```
 
-> Ring attractor network with sigma-pi units, as described in the SI of (Verbe, Martinez & Viollet, 2022)
+> Ring attractor network with sigma-pi units, as described in the SI of (Verbe, Martinez & Viollet)
 
 ## Matlab/simulink-based model:
 ``` 
