@@ -1,5 +1,5 @@
 # Sensor_ring
-You will find here the data files, matlab script and simulink file link to the modelisation of the nonlinear sensory fusion in the hoverfly righting reflex. Simply run RA_model.m under matlab to simulate for the 5 experimental conditions. Note that the file requires the simulink toolbox.   
+You will find here the data files, matlab script and simulink file link to the modelisation of the sensory fusion in the hoverfly righting reflex. Simply run RA_model.m under matlab to simulate for the 5 experimental conditions. Note that the file requires the simulink toolbox.   
 
 ```
 Linked article: Anna Verbe, Dominique Martinez, Stéphane Viollet; Sensory fusion in the hoverfly righting reflex. 
