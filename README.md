@@ -2,7 +2,7 @@
 You will find here the data files, matlab script and simulink file link to the modelisation of the sensory fusion in the hoverfly righting reflex. Simply run RA_model.m under matlab to simulate for the 5 experimental conditions. Note that the file requires the simulink toolbox.   
 
 ```
-Linked article: Verbe, A., Martinez, D. & Viollet, S. Sensory fusion in the hoverfly righting reflex. Sci Rep 13, 6138 (2023). https://doi.org/10.1038/s41598-023-33302-z
+Linked article: Verbe, A., Martinez, D. & Viollet, S. Sensory fusion in the hoverfly righting reflex. Sci Rep 13, 6138 (2023). doi: <https://doi.org/10.1038/s41598-023-33302-z>
 ```
 
 ## Experimental data: 
